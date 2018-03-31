@@ -9,7 +9,7 @@ ARG PGID=845
 
 ENV PORT=34197 \
     RCON_PORT=27015 \
-    VERSION=0.16.35 \
+    VERSION=0.16.36 \
     SHA1=35f164ae348507e8c6dfb5975893c3aaaff98af8
 
 RUN mkdir -p /opt /factorio && \
